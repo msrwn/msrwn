@@ -64,12 +64,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=msrwn&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=msrwn&include_all_commits=true"
     alt="Top Languages"
    height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=msrwn&show_icons=true"
+    src="https://github-readme-stats.vercel.app/api?username=msrwn&layout=compact&langs_count=8&v=4"
     alt="GitHub Stats"
     height="165"
   />
