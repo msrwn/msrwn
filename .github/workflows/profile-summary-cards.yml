@@ -1,0 +1,34 @@
+name: Generate Profile Trophy
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile trophy
+        uses: yihong0618/profile-trophy-action@main
+        with:
+          username: msrwn
+          theme: flat
+          columns: 6
+          rows: 1
+          output: profile-trophy.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push trophy
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-trophy.svg
+          git commit -m "chore: update profile trophy" || echo "No changes"
+          git push
