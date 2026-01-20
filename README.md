@@ -15,7 +15,7 @@
 
 <ul>
   <li>📱 Senior Mobile Engineer specializing in <b>React Native, iOS (Swift), Android (Java/Kotlin), Flutter</b></li>
-  <li>🌐 Senior Full-Stack Engineer experienced with <b>JavaScript, TypeScript, React, Vue, Node.js, Express, MySQL, MongoDB, CI/CD pipelines</b></li>
+  <li>🌐 Senior Full-Stack Engineer experienced with <b>JavaScript, TypeScript, Python, React, Vue, Node.js, Express, MySQL, MongoDB, CI/CD pipelines</b></li>
   <li>☁️ Cloud-native development on <b>AWS</b>, <b>GCP</b>, focused on scalability and reliability</li>
   <li>🚀 Strong ownership mindset — from system design to production delivery</li>
   <li>🤝 Experienced in cross-functional collaboration, mentoring, and code reviews</li>
