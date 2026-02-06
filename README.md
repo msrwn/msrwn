@@ -1,77 +1,42 @@
-<h1 align="center">Hi 👋, I'm ThaiTan Tran</h1>
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm ThaiTan Tran</h1>
 <h3 align="center">Senior Full-Stack Software Engineer</h3>
 
 <p align="center">
   9+ years building scalable, production-grade mobile and web applications
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=msrwn&label=Profile%20views&color=0e75b6&style=flat" alt="msrwn" />
 </p>
 
 <hr/>
 
-<h3 align="left">👨‍💻 About Me</h3>
+## 👨‍💻 About Me
 
-<ul>
-  <li>📱 Mobile: Specializing in <b>React Native, iOS (Swift), Android (Java/Kotlin), Flutter</b></li>
-  <li>🌐 Web: Experienced with <b>JavaScript, TypeScript, Python, React, Vue, Node.js, Express, MySQL, MongoDB, CI/CD pipelines</b></li>
-  <li>☁️ Cloud-native development on <b>AWS</b>, <b>GCP</b>, focused on scalability and reliability</li>
-  <li>🚀 Strong ownership mindset — from system design to production delivery</li>
-  <li>🤝 Experienced in cross-functional collaboration, mentoring, and code reviews</li>
-</ul>
+Senior **Mobile and Full-Stack Engineer** with 9+ years of experience building scalable consumer and enterprise applications across mobile and web platforms. Specialized in **React Native**, **iOS (Swift)**, **Android (Java/Kotlin)**, and **Flutter**, complemented by solid web development experience using **JavaScript/TypeScript**, **React**, and modern frontend architectures.
 
-<ul>
-  <li>📫 Reach me at <b>tran.dev.327@gmail.com</b></li>
-</ul>
+Strong backend expertise with **Node.js** and API-driven system design, delivering **end-to-end full-stack solutions** that power mobile and web products at scale. Experienced in architecting and deploying **cloud-native systems on AWS and GCP**, with a focus on **performance, scalability, and production reliability**.
+
+Known for strong **ownership across the full development lifecycle** — from system design and implementation to deployment and production scaling — consistently delivering high-quality, production-ready solutions in fast-paced environments.
+
 
 <hr/>
 
-<h3 align="left">🛠 Languages and Tools</h3>
+## 🛠 Skills
 
-<p align="left">
-  <!-- Mobile -->
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
-
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/>
-
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-
-  <!-- Cloud & DevOps -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,swift,kotlin,java,dart,php,python&perline=10" />
+<img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,apple,gradle&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,aws,gcp,fastapi&perline=8" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,figma&perline=8" />
 
 <hr/>
 
-<h3 align="left">📊 GitHub Stats </h3>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=msrwn&layout=compact&include_all_commits=true&langs_count=10"
-    alt="Top Languages"
-   height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=msrwn&show_icons=true"
-    alt="GitHub Stats"
-    height="165"
-  />
-</p>
-
+## 🤝 &nbsp;Contact Me
+<div align="center">
+  <a href="mailto:tran.dev.327@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/ttmsr327"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</div>
