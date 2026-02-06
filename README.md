@@ -2,7 +2,7 @@
 <h3 align="center">Senior Full-Stack Software Engineer</h3>
 
 <p align="center">
-  8+ years building scalable, production-grade mobile and web applications
+  9+ years building scalable, production-grade mobile and web applications
 </p>
 
 <p align="left">
